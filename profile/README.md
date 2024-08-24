@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.jpeg" alt="Bias" style="border-radius: 5%; width: 60%; height: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
+  <img src="logo.jpeg" alt="Bias" style="border-radius: 5%; width: 40%; height: auto; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
 
 <h2 align="center">Bias in Large Language Models</h2>
