@@ -1,8 +1,8 @@
-<div style="display: flex; justify-content: center; margin-top: 20px;">
+<div align="center">
   <img src="logo.jpeg" alt="Bias" style="border-radius: 50%; width: 150px; height: 150px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);">
 </div>
 
-<h2 style="text-align: center;">Bias in Large Language Models</h2>
+<h2 align="center">Bias in Large Language Models</h2>
 
 <hr style="border: none; height: 1px; background: linear-gradient(to right, rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.75), rgba(0, 0, 0, 0)); margin: 40px 0;">
 
